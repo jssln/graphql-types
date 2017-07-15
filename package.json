@@ -16,5 +16,9 @@
     "flow": "./node_modules/.bin/flow"
   },
   "dependencies": {
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.6",
+    "graphql": "^0.10.4",
+    "graphql-relay": "^0.5.2"
   }
 }
