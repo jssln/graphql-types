@@ -3,7 +3,7 @@
 import express from 'express';
 import graphqlHTTP from 'express-graphql';
 
-import { schema } from './schema1/index';
+import { schema } from './schema2/index';
 
 
 var app = express();
